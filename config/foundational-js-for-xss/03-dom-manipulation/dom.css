@@ -1,0 +1,16 @@
+.menu {
+  list-style:none;
+}
+
+.menu-item {
+  border: 1px solid navy;
+  width:100px;
+  background-color:white;
+  color:navy;
+}
+
+.menu-item-active {
+  background-color:navy;
+  color:white;
+  cursor:pointer;
+}

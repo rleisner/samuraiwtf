@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Register</title>
+  <link rel="stylesheet" href="contentswap.css" />
+</head>
+
+<body>
+  <h2>Register</h2>
+  <form method="GET" action=".">
+    <ul class="form">
+      <li class="form-row">
+        <label for="username">Username</label>
+        <input name="username" type="text" placeholder="test@domain.com" />
+      </li>
+      <li class="form-row">
+        <label for="password">Password</label>
+        <input name="password" type="password" placeholder="password" />
+      </li>
+      <li class="form-row">
+        <label for="password2">Confirm Password</label>
+        <input name="password2" type="password" placeholder="password" />
+      </li>
+      <li class="form-row">
+        <button type="submit">Register</button>
+      </li>
+      <li class="form-row">
+        <div id="errorMessage"></div>
+      </li>
+    </ul>
+  </form>
+  <script type="text/javascript">
+    function getParam(key) {
+      //shortcircuiting this function for testing purposes
+      /*if(key === 'errorMsg') {
+        return 'Error - Invalid Username';
+      }*/
+      var param = document.location.search;
+      param = param.length > 1 ? param.substring(1) : param;
+      return param.find(function(seg){ return seg.split('=')[0] === key;}).split('=')[1];
+    }
+
+    document.onreadystatechange = function () {
+    if (document.readyState === 'complete') {
+        document.getElementById('errorMessage').innerHTML = getParam('errorMsg') || 'No Errors';
+      }
+    }
+
+  </script>
+</body>
+</html>

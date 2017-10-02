@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Not",
+				"NotImplementedError\tclass"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ex",
+				"expandDiv"
+			],
+			[
+				"u",
+				"uaExpandBtn"
+			],
+			[
+				"ua",
+				"uaExpandPanel"
+			],
+			[
+				"userAwareness",
+				"userAwarenessExpandButton"
+			],
+			[
+				"pas",
+				"passwordTextbox"
+			],
+			[
+				"email",
+				"emailTextbox"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"SELE",
+				"SELECTED_DOM"
+			],
+			[
+				"SE",
+				"SELECTED_DOM"
+			],
+			[
+				"SELEC",
+				"SELECTED_TEMPLATE"
+			],
+			[
+				"SELECTE",
+				"SELECTED_DOM"
+			],
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"sho",
+				"showNtlm"
+			],
+			[
+				"Se",
+				"SetElipsis"
+			],
+			[
+				"el",
+				"elipsis"
+			],
+			[
+				"ntl",
+				"ntlmForm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "git add",
+		"selected_items":
+		[
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"git comm",
+				"git: commit"
+			],
+			[
+				"git ad",
+				"git: add (edit)"
+			],
+			[
+				"inst",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"git pull",
+				"git: pull"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"git co",
+				"git: commit"
+			],
+			[
+				"git ",
+				"git: log"
+			],
+			[
+				"git diff",
+				"git: diff"
+			],
+			[
+				"git ch",
+				"git: checkout current file"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit",
+				"git: commit"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"git: diff"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"cr",
+				"Set Syntax: Markdown + Critic"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mic/Presentation/foundational-js-for-xss"
+	],
+	"file_history":
+	[
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/analyzer/__init__.py",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/.gitignore",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/__init__.py",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/plugins/samplePlugin.py",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/test/__init__.py",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/swat-data/__init__.py",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/plugins/__init__.py",
+		"/Users/mic/Projects/analyzerenv/swat-analyzer/README.md",
+		"/Users/mic/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mic/Projects/docker-node-mongo/Dockerfile",
+		"/Users/mic/Projects/docker-node-mongo/package.json",
+		"/Users/mic/Projects/docker-node-mongo/docker-compose.yml",
+		"/Users/mic/Projects/docker-node-mongo/app.js",
+		"/Users/mic/Projects/secureideas.com/www/images/uat_banner2.jpg",
+		"/Users/mic/Projects/secureideas.com/www/classes/index.php",
+		"/Users/mic/Projects/secureideas.com/www/index.php",
+		"/Users/mic/Projects/secureideas.com/www/includes/headernav.php",
+		"/Users/mic/Projects/secureideas.com/www/action.php",
+		"/Volumes/SAFE/sportsman",
+		"/Volumes/SAFE/pentests/dsign/phishing-site/assets/templates.js",
+		"/Volumes/SAFE/pentests/dsign/phishing-site/app.html",
+		"/Volumes/SAFE/pentests/dsign/phishing-site/login.php",
+		"/Volumes/SAFE/pentests/dsign/phishing-site/DocuSign - Enter email to start log in_files/core.js",
+		"/Volumes/SAFE/pentests/dsign/phishing-site/DocuSign - Enter email to start log in_files/app.js",
+		"/Volumes/SAFE/pentests/dsign/phishing-site/DocuSign - Enter email to start log in_files/app.css",
+		"/Users/mic/phishing/phish-command/phish-wizard.sh",
+		"/Volumes/SAFE/pentests/everence/Everence-dev/src/Foundation/EditorUX/Foundation.EditorUX/Help/RenderingHelpTemplate.cshtml",
+		"/Users/mic/Projects/vagrant-lamp-bootstrap/site/img/loginbg-ie11 (1).png",
+		"/Users/mic/Projects/vagrant-lamp-bootstrap/site/css/ie.css",
+		"/Users/mic/Documents/tsoce_review.critic",
+		"/Users/mic/Projects/vagrant-lamp-bootstrap/site/css/style.css",
+		"/Volumes/SAFE/pentests/commonsense/report-0cd5e3b4-744b-4c32-8ae6-742c5e84c593.xml",
+		"/Users/mic/Projects/ntlm-mimic/dist/payloads/payload.js",
+		"/Volumes/SAFE/upper_prettyprinted.js",
+		"/Users/mic/Projects/ntlm-mimic/dist/payloads/test2/Select Bank _ Chase QuickPay _ Online Banking.htm",
+		"/Users/mic/Projects/ntlm-mimic/dist/payloads/test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/SAFE/pentests/everence/Everence-dev",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scrollTo",
+			"secur",
+			"</div>",
+			"<div[^/]+/div><div\\sclass=\"caption-line-text\">",
+			"<div\\sid=\"cp[^\"]+\"\\sclass=\"caption-line\"\\sdata-time=\"\\d+\\.\\d+\"><div\\sclass=\"caption-line-time\">\\d+:\\d+</div><div\\sclass=\"caption-line-text\">",
+			"<form",
+			"id=\"password",
+			"\\sng-\\w+=\"[^\"]+\"",
+			"ng-\\w+=\"[^\"]+\"",
+			"<script",
+			"../fonts",
+			"\"assets",
+			"png",
+			"img",
+			"<link",
+			"link",
+			"app",
+			"core",
+			"val=='\n",
+			"'\n",
+			"'invite_req_tab",
+			"^.*val\\s== ('[^\\']+).*",
+			"';",
+			"\\\\n",
+			"\\n",
+			"interface ijumplinknavigationbaseitem",
+			"\\:\\s+Controller",
+			"ApiController",
+			"password",
+			"html.raw",
+			"^[A-Za-z\\ ]\\ $",
+			"$[A-Za-z\\w]*\\w$",
+			"url\\(([^/][a-zA-Z\\-\\.\\_]+)",
+			"url\\(([^/][a-zA-Z\\_\\-\\.]+)",
+			"url\\(([^/][^\\)]+)",
+			"DC",
+			"controller",
+			"FLXdomain",
+			"phpmyadmin:2.11.3",
+			"<descript",
+			"dirty",
+			"<description>",
+			"Gulp",
+			"Domain: CHASE",
+			"%20"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"",
+			".",
+			"\"./assets",
+			"$1",
+			"\\n",
+			"url(resource.php?type=img&file=$1",
+			"url(resource.php?type=img&file=%1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "foundational-xss.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 107.0,
+		"last_filter": "scrollTo",
+		"selected_items":
+		[
+			[
+				"scrollTo",
+				"scrollTo"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 380.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1 @@
+document.getElementsByTagName('form')[0].addEventListener('submit',function(e){ e.preventDefault(); console.log('blocked'); });
